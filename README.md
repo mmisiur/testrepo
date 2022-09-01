@@ -1,2 +1,2 @@
 # testrepo
-testing and learnig github
+testing and learnig GIThub
